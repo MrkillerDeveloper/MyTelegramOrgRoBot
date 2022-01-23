@@ -35,7 +35,7 @@ class Config:
         "created using https://telegram.dog/Mytele_ORGbot"
     )
     #
-    FOOTER_TEXT = os.environ.get("FTEXT", "❤️ @Mrkillee_1109")
+    FOOTER_TEXT = os.environ.get("FTEXT", "❤️ @Mrkiller_1109")
     # the strings used in the different messages
     # in the bot
     START_TEXT = os.environ.get("START_TEXT", Translation.START_TEXT)
