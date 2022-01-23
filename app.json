@@ -8,9 +8,9 @@
     "scrapper",
     "3"
   ],
-  "repository": "https://github.com/SpEcHiDe/MyTelegramOrgRoBot",
-  "success_url": "https://telegram.dog/SpEcHlDe",
-  "website": "https://github.com/SpEcHiDe/MyTelegramOrgRoBot",
+  "repository": "https://github.com/harshil8981/MyTelegramOrgRoBot",
+  "success_url": "https://telegram.dog/Mrkiller_1109",
+  "website": "https://github.com/harshil8981/MyTelegramOrgRoBot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
